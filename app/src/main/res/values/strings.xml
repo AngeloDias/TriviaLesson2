@@ -35,6 +35,10 @@
     <string name="share">Share</string>
     <string name="sharing_not_available">Sharing Not Available</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_game_won_text">You won the game</string>
+    <string name="fragment_title_text">Trivia game</string>
+    <string name="fragment_game_text">Play trivia</string>
+    <string name="fragment_game_over_text">Game over</string>
+    <string name="fragment_about_text">About the game</string>
 </resources>
